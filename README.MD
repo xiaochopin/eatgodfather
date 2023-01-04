@@ -1,4 +1,4 @@
-# 吃掉小教父
+# [吃掉小教父](https://xiaochopin.github.io/eatgodfather)
 
 ![](https://xiaochopin.github.io/eatgodfather/static/image/ClickBefore.png "教父")
 
